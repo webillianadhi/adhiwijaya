@@ -1,0 +1,39 @@
+{
+  "name": "Blog Adhi Wijaya",
+  "short_name": "Adhi Wijaya",
+  "scope": "https://www.adhiwijaya.web.id",
+  "start_url": "https://www.adhiwijaya.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "blog pribadi bersifat personal yang berisi cuitan, bacotan, curhat, opini pribadi, cerita pengalaman pribadi, journey, travelling, cerpen, novel, parenting, dan sejenisnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s48/1599886644835.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s72/1599886644835.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s96/1599886644835.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s144/1599886644835.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s168/1599886644835.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s192/1599886644835.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W0Vw5mP6NoQ/X7CppYj1MoI/AAAAAAAAAA0/8xWS23t7CVUFYldnFxUv_28dJuMF5x9TQCK4BGAYYCw/s512/1599886644835.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
